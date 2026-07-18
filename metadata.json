@@ -1,0 +1,6 @@
+{
+  "name": "Breevo Electric",
+  "description": "Premium, certified residential and commercial electrical services in Toronto & Greater Toronto Area (GTA). Fully licensed, bonded, and insured.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
